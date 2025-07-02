@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [BSUMERU]
 
-🔭 I’m currently working on ** Embedded **  
+🔭 I’m currently working on **Embedded**  
 🌱 Learning **Cloud Computing & DevOps**  
 💬 Ask me about **Java, C, SQL**  
 📫 How to reach me: **https://blog.irmeets.com**  
