@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [BSUMERU]
 
 🔭 I’m currently working on ** Embedded **  
 🌱 Learning **Cloud Computing & DevOps**  
